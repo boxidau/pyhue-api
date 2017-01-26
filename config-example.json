@@ -1,0 +1,13 @@
+{
+  "uuid": "49794df8-e3f1-11e6-a7bf-9801a7b73321",
+  "host": "10.0.0.1",
+  "port": 5000,
+  "lights": {
+    "100001": {
+      "name": "Bedroom"
+    },
+    "100002": {
+      "name": "Lounge Room"
+    }
+  }
+}
